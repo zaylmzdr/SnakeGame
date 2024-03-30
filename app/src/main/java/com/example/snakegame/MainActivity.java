@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
     private static final int pointSize = 28;
     private static final int defaultTailPoints = 3;
-    private static final int snakeColor = Color.YELLOW;
+    private static final int snakeColor = Color.BLUE;
     private static final int snakeMovingSpeed = 800;
 
     private int positionX, positionY;
